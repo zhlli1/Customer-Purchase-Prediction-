@@ -9,31 +9,31 @@ To make the customer purchase prediction model, this project included the follow
         1.1.1	Popularity of prodast1 in terms of the number of orders.<br/>
         1.1.2	Popularity of prodast1 in terms of the number of browsing sessions.<br/>
         1.1.3	The revenue of each type of prodcast1<br/>
-    1.2	Customer Behavior 
-        1.2.1	Which channel is more popular in terms of event1 and event2
-        1.2.2	Customer Purchase RFM (Recency, Frequency, Monetary value)  Analysis  
-        1.2.3	Customer Segment with RMF 
-2.	Model Design and Sampling 
-    2.1	Training/ Testing Data Split 
-    2.2	 Label Generation 
-3.	Feature engineering & Selection 
-    3.1	Non-Transaction Data Features 
-        3.1.1	How the customer interacts with your website (online event1 and online event2 )
-        3.1.2	How many times a customer browsing an item (No. of sessions) 
-    3.2	Transaction Data Features
-        3.2.1	Total Number of orders 
-        3.2.2	Order Recency 
-        3.2.3	Order Frequency of each category of procat1 
-        3.2.4	Total order revenue
-    3.3	Feature Correlation Matrix 
-4.	Model Generation  
-    4.1	Grid Search to find the best parameters 
-    4.2	Random Forest Classification Model
-    4.3	 Feature Importance Analysis 
-5.	Model Evaluation 
-    5.1	Confusion Matrix 
-    5.2	 AUC
-6.	Summary & Discussion 
+    1.2	Customer Behavior<br/>
+        1.2.1	Which channel is more popular in terms of event1 and event2<br/>
+        1.2.2	Customer Purchase RFM (Recency, Frequency, Monetary value)  Analysis  <br/>
+        1.2.3	Customer Segment with RMF <br/>
+2.	Model Design and Sampling <br/>
+    2.1	Training/ Testing Data Split <br/>
+    2.2	 Label Generation <br/>
+3.	Feature engineering & Selection <br/>
+    3.1	Non-Transaction Data Features <br/>
+        3.1.1	How the customer interacts with your website (online event1 and online event2 )<br/>
+        3.1.2	How many times a customer browsing an item (No. of sessions) <br/>
+    3.2	Transaction Data Features<br/>
+        3.2.1	Total Number of orders <br/>
+        3.2.2	Order Recency <br/>
+        3.2.3	Order Frequency of each category of procat1 <br/>
+        3.2.4	Total order revenue<br/>
+    3.3	Feature Correlation Matrix <br/>
+4.	Model Generation  <br/>
+    4.1	Grid Search to find the best parameters <br/>
+    4.2	Random Forest Classification Model<br/>
+    4.3	 Feature Importance Analysis <br/>
+5.	Model Evaluation <br/>
+    5.1	Confusion Matrix <br/>
+    5.2	 AUC<br/>
+6.	Summary & Discussion <br/>
 
 
 ## Customer Segmentation Analysis (RMF)
