@@ -4,13 +4,11 @@
 The goal of this project is to develop a predictive model based on the order and online customer behavior data to forecast product category (prodcat1) a customer is likely to order.  The data was obtained from Shutterfly Inc. (source: https://github.com/sflydatascience/homework1/blob/master/data.zip). The data includes two time-series datasets, one is Non-Transactional Data (Online data), another is Transactional Data (Order Data). The Non-Transactional Data (Online data) starts from 2016-01-01 to 2017-12-31, while the Transaction Data starts from 2016-01-01 to 2019-01-02.
 
 To make the customer purchase prediction model, this project included the following sections :
-1.	Exploration and Understanding of the Data Sets
-<br>
-    1.1	Product Analysis
-    <br>
-        1.1.1	Popularity of prodast1 in terms of the number of orders.
-        1.1.2	Popularity of prodast1 in terms of the number of browsing sessions.
-        1.1.3	The revenue of each type of prodcast1
+1.	Exploration and Understanding of the Data Sets<br/>
+    1.1	Product Analysis<br/>
+        1.1.1	Popularity of prodast1 in terms of the number of orders.<br/>
+        1.1.2	Popularity of prodast1 in terms of the number of browsing sessions.<br/>
+        1.1.3	The revenue of each type of prodcast1<br/>
     1.2	Customer Behavior 
         1.2.1	Which channel is more popular in terms of event1 and event2
         1.2.2	Customer Purchase RFM (Recency, Frequency, Monetary value)  Analysis  
