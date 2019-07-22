@@ -5,7 +5,9 @@ The goal of this project is to develop a predictive model based on the order and
 
 To make the customer purchase prediction model, this project included the following sections :
 1.	Exploration and Understanding of the Data Sets
+<br>
     1.1	Product Analysis
+    <br>
         1.1.1	Popularity of prodast1 in terms of the number of orders.
         1.1.2	Popularity of prodast1 in terms of the number of browsing sessions.
         1.1.3	The revenue of each type of prodcast1
