@@ -118,9 +118,12 @@ The customer segmentation analysis indicated that most of the customers are inac
 
 The purchasing behavior is depended on the total number of order, total revenue, recency and previous purchasing behavior of each customer. The prediction results still show that most of the people will unlikely to make any purchase in the following half years. While among all the category, class 2 in procat1 is the most likely purchase category across all the customers.  Therefore, the marketing team still need to work on improving retention and frequency. 
 
-## The problem of the Data : 
+## The Problem of the Data : 
 
 The online data only include 3 class in online browsing category (procat1), while proact1 has a total of 6 classes. The online data is not complete, making the model less robust. 
+
+
+
 
 The more details can be checked in shutterfly.ipynb.
 
