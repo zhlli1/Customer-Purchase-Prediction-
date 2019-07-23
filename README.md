@@ -29,7 +29,8 @@ To make the customer purchase prediction model, this project included the follow
 4.	Model Generation  <br/>
     4.1	Grid Search to find the best parameters <br/>
     4.2	Random Forest Classification Model<br/>
-    4.3	 Feature Importance Analysis <br/>
+    4.3	Feature Importance Analysis <br/>
+    4.4 Prediction Analysis<br/>
 5.	Model Evaluation <br/>
     5.1	Confusion Matrix <br/>
     5.2	 AUC<br/>
