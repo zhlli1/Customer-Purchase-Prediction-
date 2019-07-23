@@ -125,6 +125,6 @@ The online data only include 3 class in online browsing category (procat1), whil
 
 
 
-The more details can be checked in shutterfly.ipynb.
+The more details can be checked in shutterfly.ipynb or shutterfly.html. 
 
 
